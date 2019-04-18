@@ -1,0 +1,18 @@
+9 16 D
+A B 1
+A G 8
+B H 2
+B D 4
+B E 5
+B C 3
+C A 7
+C D 4
+D E 3
+D F 1
+E C 2
+F E 7
+F I 2
+G C 3
+H D 6
+I E 5
+A
